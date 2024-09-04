@@ -24,3 +24,7 @@ On each round you are facing an oponent who also has this app. Whoever has the h
 If your card is the winner you swipe on the right, if you failed the check you swipe on the left.
 
 When swiping on the left, your lifepoints are reduced by the amount of the cards lifepoints.
+
+
+### Example 
+![Alt text](./assets/example.png)

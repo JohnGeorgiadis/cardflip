@@ -15,6 +15,10 @@ To run your project, navigate to the directory and run one of the following bun 
 - bun run android
 - bun run ios
 
+### How to run the tests
+
+- bun test
+
 ### What is this?
 
 This is a barebone companion app for the warhammer 40k card game. The lifepoints (the number marked as green at the top right corner) is the sum of all cards you have in your had lifepoints (the blood icon on each card).
@@ -25,6 +29,6 @@ If your card is the winner you swipe on the right, if you failed the check you s
 
 When swiping on the left, your lifepoints are reduced by the amount of the cards lifepoints.
 
+### Example
 
-### Example 
 ![Alt text](./assets/example.png)
